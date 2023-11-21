@@ -1,4 +1,5 @@
-"id": 95733885,
+{
+    "id": 95733885,
     "name": "Floaty Spam X2",
     "author": "Xnor",
     "creators": ["bbb4", "Xnor"],
@@ -6,3 +7,4 @@
     "verification": "https://www.youtube.com/watch?v=nrQVt3Pky9c",
     "percentToQualify": 36,
     "records": []
+}
