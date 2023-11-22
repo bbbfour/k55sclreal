@@ -9,8 +9,13 @@
         "name": "bbb4",
         "link": "https://www.youtube.com/https://www.youtube.com/channel/UCj5HBEzj-QoCjxhTlazBAMg"
     {
-        "role": "owner",
+        "role": "admin",
         "name": "ObeyMiniNinja",
         "link": "https://www.youtube.com/@ObeyMiniNinja"
+    },
+     {
+        "role": "admin",
+        "name": "FaizanGMD",
+        "link": "https://www.youtube.com/channel/UCdnCaR6AgSnaxh2h2yv2m8Q"
     }
 ]
